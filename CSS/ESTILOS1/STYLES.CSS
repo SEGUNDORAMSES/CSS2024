@@ -5,26 +5,29 @@ selectorEtiquetaHTML,.Class,#ID {
     propiedad : valor ;
     propiedad : valor ;
 } */
-.micuadro{
+.micuadro {
 
     width: 200px;
     height: 200px;
     background-color: blue;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 3em; /* unidades de medidas  PX % EM */
-    text-align: center ;
-    transition: width 0.5s, height 0.5s,background-color 0.5s;
-position: relative;
-left: 500px;
+    font-size: 3em;
+    /* unidades de medidas  PX % EM */
+    text-align: center;
+    transition: width 0.5s, height 0.5s, background-color 0.5s;
+    position: relative;
+    left: 500px;
 }
+
 .micuadro:hover {
 
     background-color: aqua;
     width: 400px;
     height: 400px;
 }
-.circulo1{
+
+.circulo1 {
     width: 20px;
     height: 20px;
 
@@ -35,7 +38,8 @@ left: 500px;
     top: 50%;
 
 }
-.circulo2{
+
+.circulo2 {
     width: 20px;
     height: 20px;
 
