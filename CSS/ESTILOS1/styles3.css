@@ -1,0 +1,11 @@
+.click{color: aqua;}
+
+.click:active{color: black;}
+
+.google{color: brown;}
+
+.google:hover{color: blue;}
+
+input{background-color: darkolivegreen;}
+
+input:focus{background-color: darkred;}
